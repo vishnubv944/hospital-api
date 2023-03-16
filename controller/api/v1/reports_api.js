@@ -1,8 +1,6 @@
 const Reports = require("../../../models/reports");
 
 module.exports.status = async (req, res) => {
-  //console.log(req.params.status);
-
   try {
     let report = await Reports.findOne({ status: req.params.id });
     if (!report) {
