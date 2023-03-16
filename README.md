@@ -9,7 +9,7 @@
 <h1 align="center">Hospital API</h1>
 
   <p align="center">
-    <a href="#">View Demo</a>
+    <a href=" https://pattern-frown-fc3.notion.site/Hospital-API-Documentation-e8bd7bed332a4f409a4051631b67e082">View Demo</a>
     ·
     <a href="https://github.com/vishnubv944/hospital-api/issues">Report Bug</a>
     ·
@@ -61,8 +61,6 @@ The source code provided in this repository includes all the necessary component
 ## Contact
 
 Vishnu B V - vishnubv944@gmail.com
-
-Project Link: []()
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
