@@ -9,7 +9,7 @@
 <h1 align="center">Hospital API</h1>
 
   <p align="center">
-    <a href=" https://pattern-frown-fc3.notion.site/Hospital-API-Documentation-e8bd7bed332a4f409a4051631b67e082">View Demo</a>
+    <a href="https://pattern-frown-fc3.notion.site/Hospital-API-Documentation-e8bd7bed332a4f409a4051631b67e082">View Demo</a>
     ·
     <a href="https://github.com/vishnubv944/hospital-api/issues">Report Bug</a>
     ·
